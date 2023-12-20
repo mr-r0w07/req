@@ -14,14 +14,13 @@ require (
 	github.com/marten-seemann/qtls-go1-19 v0.1.1
 	github.com/onsi/ginkgo v1.16.5
 	github.com/onsi/gomega v1.13.0
-	golang.org/x/crypto v0.0.0-20210921155107-089bfa567519
-	golang.org/x/net v0.0.0-20211015210444-4f30a5c0130f
-	golang.org/x/sys v0.0.0-20220520151302-bc2c85ada10a
-	golang.org/x/text v0.3.7
+	golang.org/x/crypto v0.17.0
+	golang.org/x/net v0.10.0
+	golang.org/x/sys v0.15.0
+	golang.org/x/text v0.14.0
 )
 
 require (
 	github.com/fsnotify/fsnotify v1.5.4 // indirect
 	github.com/hashicorp/errwrap v1.1.0 // indirect
-	golang.org/x/tools v0.1.11 // indirect
 )
